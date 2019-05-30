@@ -1,0 +1,7 @@
+C:\Users\agust\source\repos\Cliente2\Cliente2\bin\Debug\Cliente2.exe.config
+C:\Users\agust\source\repos\Cliente2\Cliente2\bin\Debug\Cliente2.exe
+C:\Users\agust\source\repos\Cliente2\Cliente2\bin\Debug\Cliente2.pdb
+C:\Users\agust\source\repos\Cliente2\Cliente2\obj\Debug\Cliente2.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\Cliente2\Cliente2\obj\Debug\Cliente2.exe
+C:\Users\agust\source\repos\Cliente2\Cliente2\obj\Debug\Cliente2.pdb
+C:\Users\agust\source\repos\Cliente2\Cliente2\obj\Debug\Cliente2.csprojAssemblyReference.cache
